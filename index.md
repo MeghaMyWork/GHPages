@@ -1,6 +1,6 @@
 Table of Contents
 -----------------
-- [Introduction](Introduction.md) 
+- [Introduction](docs/Introduction.md) 
   - About Hygieia
   - Objectives
   - Features
