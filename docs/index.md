@@ -1,8 +1,8 @@
 Table of Contents
 -----------------
 - [Introduction](Introduction.md) 
-  - About Hygieia
-  - Objectives
+  - [About Hygieia](#about-hygieia)
+  - [Objectives](#objectives)
   - Features
 - Hygieia Dashboard
   - Signup and Login
@@ -17,3 +17,5 @@ Table of Contents
   - Change Dashboard Settings
   - Delete Dashboard
 
+### About Hygieia
+### Objectives
